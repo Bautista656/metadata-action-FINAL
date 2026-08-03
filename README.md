@@ -13,6 +13,7 @@ action to tag and label Docker images.
 ![Screenshot](.github/metadata-action.png)
 
 ___
+Algo
 
 * [Usage](#usage)
   * [Basic](#basic)
@@ -34,6 +35,7 @@ ___
   * [`type=ref`](#typeref)
   * [`type=raw`](#typeraw)
   * [`type=sha`](#typesha)
+
 * [Notes](#notes)
   * [Image name and tag sanitization](#image-name-and-tag-sanitization)
   * [Latest tag](#latest-tag)
